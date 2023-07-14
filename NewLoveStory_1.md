@@ -32,3 +32,5 @@
 git config --global user.name "Your_Name"
 git config --global user.email Your_Email@example.com
 ```
+Если не появилось никаких ошибок, значит Вы авторизовались. В дальнейшем при просмотре имеющихся коммитов (например командой `git log`) Вы увидите кем и когда он был создан.
+Проверить статус Git можно командой `git status`.
