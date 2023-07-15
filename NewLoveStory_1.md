@@ -17,5 +17,6 @@
 * Финал *LoveStory*
 
 ## Как работать в команде ***(Soft skill`s`)***, идеи и трудности.
+https://trends.rbc.ru/trends/education/5e90743f9a7947ca3bbb6523
 
 
