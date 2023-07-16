@@ -19,6 +19,7 @@
 * **git branch** – посмотреть список существующих локальных веток
 * **git branch branch_name**  - создать новую ветку.
 * **git checkout  branch_name**  - переключиться на ветку branch_name
+* **git checkout –b branch_name** - создать новую ветку и сразу переключиться на нее.
 
 
 5. Ветки в *Git* ветвление/слияние/конфликты. --- **_KiritoSV_**
