@@ -186,3 +186,10 @@ git pull — это, по сути, git fetch, после которого ср�
 *git rm submodulename*
 *git rm --cached submodulename*
 *rm -rf .git/modules/submodulename*
+
+* **Как перезаписать локальные файлы во время git pull**
+
+Вам снова поможет git reset:
+
+*git fetch --all*
+*git reset --hard origin/master*
