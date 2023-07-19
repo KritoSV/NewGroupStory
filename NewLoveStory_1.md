@@ -18,7 +18,7 @@
 * Финал *LoveStory*
 
 
-## <a id="title1">Глава 1. Подготовительные действия перед началом работы с Git в Visual Studio Code.</a>
+# <a id="title1">Глава 1. Подготовительные действия перед началом работы с Git в Visual Studio Code.</a>
 
 ### Скачиваем программы Git и Visual Studio Code (VSC)
 
@@ -64,7 +64,7 @@
 
 
 
-## <a id="title3">Начало работы с _**Git**_ в Visual Studio Code</a>
+# <a id="title3">Глава 3. Начало работы с _**Git**_ в Visual Studio Code</a>
 ### Установка Git
 Для того, чтобы начать работать с Git, необходимо его установить на устройство, в котором будет осуществляться работа. Например, для ОС Windows его можно скачать с сайта https://gitforwindows.org/
 
