@@ -18,7 +18,7 @@
 * Финал *LoveStory*
 
 
-## <a id="title1">Подготовительные действия перед началом работы с Git в Visual Studio Code.</a>
+## <a id="title1">Глава 1. Подготовительные действия перед началом работы с Git в Visual Studio Code.</a>
 
 ### Скачиваем программы Git и Visual Studio Code (VSC)
 
